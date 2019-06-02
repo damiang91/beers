@@ -1,0 +1,13 @@
+header {
+    background-image: url('https://images-na.ssl-images-amazon.com/images/I/8115UueeAeL._SX679_.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height:400px;
+    width:100%;
+    background-position: center;
+    margin:0;
+}
+h2 {
+    color:rgb(88, 87, 87);
+    margin:0;
+}
